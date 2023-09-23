@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hhFW2yONagoFvSUMm7wZ08Rj5o0NQrfdsmdOU4t6XX8ROC/v34Ila7htaoRWBVNG3WjY7sD+QBxaGbrsRTpfAA==",
+  "dgSpecHash": "IKtFkt/5es3o6L/CgVHnxOFx0Ge5PTF/BDJp+Y5bWoo9fUWAXgj9rwQADoYplivD9RabHYKn4EDCk1Lq6nF7hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\student\\Desktop\\UsmanovBochkarev\\UsmanovBochkarev\\UsmanovBochkarev.csproj",
+  "projectFilePath": "C:\\Users\\student\\Source\\Repos\\auth\\UsmanovBochkarev\\UsmanovBochkarev.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\student\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

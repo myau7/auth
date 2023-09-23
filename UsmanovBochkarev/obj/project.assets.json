@@ -2546,11 +2546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\student\\Desktop\\UsmanovBochkarev\\UsmanovBochkarev\\UsmanovBochkarev.csproj",
+      "projectUniqueName": "C:\\Users\\student\\Source\\Repos\\auth\\UsmanovBochkarev\\UsmanovBochkarev.csproj",
       "projectName": "UsmanovBochkarev",
-      "projectPath": "C:\\Users\\student\\Desktop\\UsmanovBochkarev\\UsmanovBochkarev\\UsmanovBochkarev.csproj",
+      "projectPath": "C:\\Users\\student\\Source\\Repos\\auth\\UsmanovBochkarev\\UsmanovBochkarev.csproj",
       "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\student\\Desktop\\UsmanovBochkarev\\UsmanovBochkarev\\obj\\",
+      "outputPath": "C:\\Users\\student\\Source\\Repos\\auth\\UsmanovBochkarev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2566,6 +2566,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2614,7 +2615,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
